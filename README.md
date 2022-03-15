@@ -66,7 +66,7 @@ Put a picture on the buttons.]
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/af3f68933d834faf8d2f9906c3b0429d)
 
 
 ## License
