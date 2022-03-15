@@ -49,13 +49,19 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [https://www.w3schools.com/html/]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[]
+[When I used the buttons, I didn't close the div tag. As a result, the toggle between the Start and Stop Button was no longer functional. I double-checked the code and saw that the concluding div tag was missing. The button started working once I closed the div tag.
+While copying the #buttonnumber.lit, I had given the same for all the buttons during paste. Rectified the error and the game was working properly.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[How can newer websites have so much functionality, design, and fantastic looks?
+How do you create live websites, such as one that updates cricket scores as each ball or action is played in real-time, and makes modifications on the fly?]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[As the user progresses, I would increase the level of difficulty.
+When the number of buttons is increased, it becomes more difficult for the user to remember which one is which. Faster sound playback with a shorter time delay between each sound. Setting up a clock to keep track of how long user inputs take.
+For a more appealing UI, I'd switch to a backdrop image.
+Introduce the game's levels. Make the game a competition on the internet. On the scoreboard or leaderboard, those with higher levels are displayed.
+As one continues, one can change the sound of the buttons.]
 
 
 
