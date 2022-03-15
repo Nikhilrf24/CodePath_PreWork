@@ -1,5 +1,5 @@
-# Pre-work - *Memory Game*
 
+<<<<<<< HEAD
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
 Submitted by: **Nikhil Satish Joshi**
@@ -79,3 +79,5 @@ If you recorded multiple GIFs for all the implemented features, you can add them
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+=======
+>>>>>>> 261d716c176778901b94ceeb2c89ad322819682e
