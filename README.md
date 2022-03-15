@@ -61,7 +61,8 @@ How do you create live websites, such as one that updates cricket scores as each
 When the number of buttons is increased, it becomes more difficult for the user to remember which one is which. Faster sound playback with a shorter time delay between each sound. Setting up a clock to keep track of how long user inputs take.
 For a more appealing UI, I'd switch to a backdrop image.
 Introduce the game's levels. Make the game a competition on the internet. On the scoreboard or leaderboard, those with higher levels are displayed.
-As one continues, one can change the sound of the buttons.]
+As one continues, one can change the sound of the buttons.
+Put a picture on the buttons.]
 
 
 
